@@ -1,4 +1,3 @@
-/* 
 
 let username = prompt("Введите ваше имя", "Йог(иня)");
 
@@ -8,4 +7,4 @@ function show_text(username){
 
 show_text(username);
 
-alert('Подробнее читай на странице!') */
+alert('Подробнее читай на странице!')

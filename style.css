@@ -3,12 +3,6 @@ p {
     
 }
 
-/* div {
-  display: flex; 
-  justify-content: space-between;
-  gap: 30px;
-} */
-
 body {
     background-color: black;
    
@@ -18,6 +12,10 @@ h1 {
     color: blue;
 }
 
+h2 {
+    color: aqua;
+}
+
 
 .flex-container {
     display: flex;
@@ -25,10 +23,11 @@ h1 {
     gap: 30px;
   }
 
-.for-text {
-    width: 600px;   
-    margin: 0 auto;   
-    padding: 0 20px 20px 20px;  
-}
 
+.center {
+    text-align: center;
+}
   
+a {
+    color: red;
+  }
