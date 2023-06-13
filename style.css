@@ -1,0 +1,34 @@
+p {
+    color: blueviolet;
+    
+}
+
+/* div {
+  display: flex; 
+  justify-content: space-between;
+  gap: 30px;
+} */
+
+body {
+    background-color: black;
+   
+}
+
+h1 {
+    color: blue;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+  }
+
+.for-text {
+    width: 600px;   
+    margin: 0 auto;   
+    padding: 0 20px 20px 20px;  
+}
+
+  
